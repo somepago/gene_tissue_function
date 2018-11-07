@@ -1,0 +1,69 @@
+﻿ Disease_tissue_paper,Gtex_highlevel_tissue,Comments
+ADIPOCYTE,Adipose Tissue,
+Adrenal Cortex,Adrenal Gland,
+Amygdala,Brain,
+Appendix,,did not find relevant gtex tissue
+B cells,Blood,
+B lymphoblasts,Bone Marrow,same as lymphocytes
+CD4 T cells,Blood,
+CD8 T cells,Blood,
+Cardiac Myocytes,Heart,
+Cerebellum Peduncles,Brain,
+Colorectal Adenocarcinoma,,not mapping cancerous tissues
+Heart,Heart,
+Hypothalamus,Brain,
+Liver,Liver,
+Lung,Lung,
+Medulla Oblongata,Brain,
+Monocytes,Blood,
+NK Cells,Blood,
+Occipital Lobe,Brain,
+Olfactory Bulb,Brain,
+Ovary,Ovary,
+PLACENTA,,not mapping fetal tissues
+Pancreas,Pancreas,
+Pancreatic Islets,Pancreas,
+Parietal Lobe,Brain,
+Pituitary,Pituitary,
+Pons,Brain,
+Prefrontal Cortex,Brain,
+Prostate,Prostate,
+Skeletal Muscle,Muscle,
+Smooth Muscle,Muscle,
+TONGUE,,"did not find relevant gtex tissue, should we take muscle?"
+Temporal Lobe,Brain,
+Testis Germ Cell,Testis,
+Testis Leydig Cell,Testis,
+Testis Seminiferous Tubule,Testis,
+Thalamus,Brain,
+Thyroid,Thyroid,
+Tonsil,,"did not find relevant gtex tissue, should we take muscle?"
+Trigeminal Ganglion,Nerve,
+Uterus,Uterus,
+WHOLE BLOOD,Blood,
+Whole Brain,Brain,
+adrenal gland,Adrenal Gland,
+atrioventricular node,Nerve,Little unclear whether this is nerve or muscle
+bone marrow,Bone Marrow,
+bone marrow CD34,Bone Marrow,
+caudate nucleus,Brain,
+cerebellum,Brain,
+ciliary ganglion,Brain,
+dorsal root ganglion,Brain,
+fetal Thyroid,,not mapping fetal tissues
+fetal brain,,not mapping fetal tissues
+fetal liver,,not mapping fetal tissues
+fetal lung,,not mapping fetal tissues
+globus pallidus,Brain,
+kidney,Kidney,
+leukemia chronic myelogenous,,not mapping cancerous tissues
+leukemia lymphoblastic,,not mapping cancerous tissues
+leukemia promyelocytic,,not mapping cancerous tissues
+lymph node,,"did not find relevant gtex tissue, should we take muscle?"
+salivary gland,Salivary Gland,
+skin,Skin,
+spinal cord,Brain,
+subthalamic nucleus,Brain,
+testis,Testis,
+thymus,,"did not find relevant gtex tissue, should we take muscle?"
+trachea,,"did not find relevant gtex tissue, should we take muscle?"
